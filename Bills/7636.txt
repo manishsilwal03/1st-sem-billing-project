@@ -1,0 +1,16 @@
+	Welcome to Manish Retails
+
+Bill Number :7636 
+Customer Name :melina silwal 
+Phone Number : 9855555
+======================================
+Product		Quantity		Price
+======================================
+Rice		4		300
+Frooti		5		125
+--------------------------------------
+Grocery Tax			Rs. 15.0
+Cold Drinks Tax			Rs. 6.25
+--------------------------------------
+Total Amount: 			Rs. 446.25
+--------------------------------------

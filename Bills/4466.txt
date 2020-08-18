@@ -1,0 +1,16 @@
+	Welcome to Manish Retails
+
+Bill Number :4466 
+Customer Name :aayush Taujale 
+Phone Number : 25465453
+======================================
+Product		Quantity		Price
+======================================
+Soap		8		240
+Daal		8		480
+--------------------------------------
+Cosmetic Tax			Rs. 12.0
+Grocery Tax			Rs. 24.0
+--------------------------------------
+Total Amount: 			Rs. 756.0
+--------------------------------------

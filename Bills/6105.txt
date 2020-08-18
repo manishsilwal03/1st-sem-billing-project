@@ -1,0 +1,18 @@
+	Welcome to Manish Retails
+
+Bill Number :6105 
+Customer Name :isnan 
+Phone Number : 985465465
+======================================
+Product		Quantity		Price
+======================================
+Soap		4		120
+Daal		2		120
+Sprite		4		180
+--------------------------------------
+Cosmetic Tax			Rs. 6.0
+Grocery Tax			Rs. 6.0
+Cold Drinks Tax			Rs. 9.0
+--------------------------------------
+Total Amount: 			Rs. 441.0
+--------------------------------------

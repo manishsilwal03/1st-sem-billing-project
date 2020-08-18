@@ -1,0 +1,18 @@
+	Welcome to Manish Retails
+
+Bill Number :1338 
+Customer Name :sanju 
+Phone Number : 9898
+======================================
+Product		Quantity		Price
+======================================
+Soap		2		60
+Rice		5		375
+Sprite		4		180
+--------------------------------------
+Cosmetic Tax			Rs. 3.0
+Grocery Tax			Rs. 18.75
+Cold Drinks Tax			Rs. 9.0
+--------------------------------------
+Total Amount: 			Rs. 645.75
+--------------------------------------

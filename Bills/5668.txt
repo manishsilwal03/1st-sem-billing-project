@@ -1,0 +1,16 @@
+	Welcome to Manish Retails
+
+Bill Number :5668 
+Customer Name :milan silwal 
+Phone Number : 98655555
+======================================
+Product		Quantity		Price
+======================================
+Rice		4		300
+Slice		85		4250
+--------------------------------------
+Grocery Tax			Rs. 15.0
+Cold Drinks Tax			Rs. 212.5
+--------------------------------------
+Total Amount: 			Rs. 4777.5
+--------------------------------------

@@ -1,0 +1,21 @@
+	Welcome to Manish Retails
+
+Bill Number :7981 
+Customer Name :tikadatta 
+Phone Number : 898888888
+======================================
+Product		Quantity		Price
+======================================
+Soap		4		120
+Hair Spray		8		1600
+Oil		5		900
+Sugar		9		675
+Sprite		7		315
+Litchi		3		105
+--------------------------------------
+Cosmetic Tax			Rs. 86.0
+Grocery Tax			Rs. 78.75
+Cold Drinks Tax			Rs. 21.0
+--------------------------------------
+Total Amount: 			Rs. 3900.75
+--------------------------------------

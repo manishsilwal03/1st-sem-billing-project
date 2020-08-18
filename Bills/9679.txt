@@ -1,0 +1,17 @@
+	Welcome to Manish Retails
+
+Bill Number :9679 
+Customer Name :nabin 
+Phone Number : 484
+======================================
+Product		Quantity		Price
+======================================
+Rice		5		375
+Sugar		4		300
+Sprite		4		180
+--------------------------------------
+Grocery Tax			Rs. 33.75
+Cold Drinks Tax			Rs. 9.0
+--------------------------------------
+Total Amount: 			Rs. 897.75
+--------------------------------------

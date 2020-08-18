@@ -1,0 +1,18 @@
+	Welcome Manish Retails
+
+Bill Number :2019 
+Customer Name :Manish Silwal 
+Phone Number : 9865039703
+======================================
+Product		Quantity		Price
+======================================
+Soap		12		360
+Oil		8		1440
+Frooti		1		25
+--------------------------------------
+Cosmetic Tax			Rs. 18.0
+Grocery Tax			Rs. 72.0
+Cold Drinks Tax			Rs. 1.25
+--------------------------------------
+Total Amount: 			Rs. 1916.25
+--------------------------------------
